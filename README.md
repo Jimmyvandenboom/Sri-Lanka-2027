@@ -1,7 +1,7 @@
-# Sri Lanka 2027 — kijkversie
+# Sri Lanka / 2027 — Samen op avontuur
 
-Dit is een zelfstandige, statische kijkversie. Alle vijf tabbladen en route-details werken zonder account, server of database. Opslaan is uitgeschakeld. De volledige app en D1-opslag blijven apart behouden.
+Fotografisch reisdagboek met vijf bladerbare onderdelen en zes scrollhoofdstukken. Alleen bekijken; er worden geen gegevens opgeslagen. De volledige app met D1 blijft apart behouden.
 
-Publiceer uitsluitend de inhoud van deze map op een aparte Pages-branch, zodat de appbroncode niet onbedoeld wordt meegenomen. Selecteer daarna in GitHub: Settings → Pages → Deploy from a branch → de Pages-branch → /(root).
+Alle beelden en lettertypen worden lokaal geleverd. De beelden zijn eigen artistieke AI-impressies en geen bevestigde hotel- of bestemmingsfoto's. Licenties voor de lettertypen staan in fonts/.
 
-Deze kijkversie toont persoonlijke reisdata, route, groepssamenstelling, vluchttijden en een budget. Openbare publicatie vereist toestemming van de eigenaar. GitHub Pages maakt hiervan een voor anderen bereikbare website.
+GitHub Pages-bron: branch kijkversie, map /(root). Deze map bevat de complete statische publicatie. De eigenaar heeft toestemming gegeven voor het openbaar tonen van de oorspronkelijke reisroute, data, groepssamenstelling, vluchttijden en het budget. Vluchtprijzen worden niet getoond.
